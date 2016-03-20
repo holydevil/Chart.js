@@ -1,6 +1,6 @@
 [![](http://tannerlinsley.com/memes/chartjs.gif)](http://www.chartjs.org/docs/)
 
-# Chart.js 
+# Chart.js is Awesome
 
 [![Build Status](https://travis-ci.org/nnnick/Chart.js.svg?branch=master)](https://travis-ci.org/nnnick/Chart.js) [![Code Climate](https://codeclimate.com/github/nnnick/Chart.js/badges/gpa.svg)](https://codeclimate.com/github/nnnick/Chart.js) [![Chart.js on Slack](https://img.shields.io/badge/slack-Chart.js-blue.svg)](https://chartjs-slack-automation.herokuapp.com/)
 
